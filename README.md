@@ -1,4 +1,4 @@
-# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,522 | 🐛 75 | 📅 2026-03-09 with stars
+# Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,818 | 🐛 76 | 📅 2026-03-09 with stars
 
 This is a community list of awesome projects, apps, tools, and services related to IPFS.
 
@@ -25,18 +25,18 @@ Check out the list of [IPFS implementations](https://docs.ipfs.tech/concepts/ipf
 
 ## Apps
 
-* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,505 | 🐛 140 | 🌐 JavaScript | 📅 2026-03-11 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
-* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,377 | 🐛 119 | 🌐 Java | 📅 2026-03-10 - End-to-end encrypted, peer-to-peer file storage and sharing.
-* [Planet](https://github.com/Planetable/Planet) ⭐ 1,733 | 🐛 78 | 🌐 Swift | 📅 2026-03-10 - Build and host decentralized blogs and websites with IPFS on your Mac
-* [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,425 | 🐛 98 | 🌐 TypeScript | 📅 2026-03-05 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) ⭐ 6,504 | 🐛 140 | 🌐 JavaScript | 📅 2026-03-11 - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+* [Peergos](https://github.com/Peergos/Peergos) ⭐ 2,378 | 🐛 119 | 🌐 Java | 📅 2026-03-10 - End-to-end encrypted, peer-to-peer file storage and sharing.
+* [Planet](https://github.com/Planetable/Planet) ⭐ 1,733 | 🐛 78 | 🌐 Swift | 📅 2026-03-12 - Build and host decentralized blogs and websites with IPFS on your Mac
+* [archiveweb.page](https://github.com/webrecorder/archiveweb.page) ⭐ 1,427 | 🐛 98 | 🌐 TypeScript | 📅 2026-03-05 - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 * [Agregore](https://github.com/AgregoreWeb/agregore-browser) ⭐ 898 | 🐛 94 | 🌐 JavaScript | 📅 2026-03-02 - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
-* [Diffuse](https://github.com/icidasset/diffuse) ⭐ 860 | 🐛 15 | 🌐 JavaScript | 📅 2026-03-10 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
-* [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) ⭐ 650 | 🐛 159 | 🌐 Python | 📅 2025-10-10 - Web Archive (WARC) indexing and replay using IPFS.
+* [Diffuse](https://github.com/icidasset/diffuse) ⭐ 860 | 🐛 15 | 🌐 JavaScript | 📅 2026-03-11 - Play music from your IPFS node, or any other cloud/distributed storage service you use.
+* [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) ⭐ 651 | 🐛 159 | 🌐 Python | 📅 2025-10-10 - Web Archive (WARC) indexing and replay using IPFS.
 * [brig](https://github.com/sahib/brig) ⭐ 576 | 🐛 29 | 🌐 Go | 📅 2024-02-13 - File synchronization with git like interface and FUSE filesystem.
 * [TeaTime](https://github.com/bjesus/teatime) ⭐ 529 | 🐛 5 | 🌐 Vue | 📅 2025-01-01 - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 * [killcord](https://github.com/nomasters/killcord) ⚠️ Archived - A censorship resistant deadman's switch
 * [Hardbin](https://github.com/jes/hardbin) ⭐ 258 | 🐛 5 | 🌐 JavaScript | 📅 2023-10-25 - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-* [hyprspace](https://github.com/hyprspace/hyprspace) ⭐ 212 | 🐛 27 | 🌐 Go | 📅 2026-01-13 - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
+* [hyprspace](https://github.com/hyprspace/hyprspace) ⭐ 213 | 🐛 27 | 🌐 Go | 📅 2026-01-13 - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
 * [Peer Web Site](https://github.com/Weedshaker/PeerWebSite) ⭐ 196 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-02 - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
 * [Mintter](https://github.com/MintterHypermedia/mintter) ⚠️ Archived - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
 * [IPFS Share](https://github.com/ipfs-shipyard/ipfs-share-files) ⭐ 168 | 🐛 39 | 🌐 TypeScript | 📅 2026-03-10 - Share files directly from the browser using IPFS.
@@ -67,7 +67,7 @@ A list of web browsers with IPFS integrations
 * [ipfs-companion](https://github.com/ipfs/ipfs-companion) ⭐ 2,157 | 🐛 152 | 🌐 JavaScript | 📅 2026-01-27 - Browser extension that simplifies access to IPFS resources.
 * [Public Gateway Checker](https://github.com/ipfs/public-gateway-checker) ⭐ 2,104 | 🐛 37 | 🌐 TypeScript | 📅 2026-02-27 - Checks which public gateways are online or not.
 * [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) ⭐ 1,172 | 🐛 31 | 🌐 JavaScript | 📅 2025-05-10 - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
-* [sourcify](https://github.com/ethereum/sourcify) ⭐ 908 | 🐛 101 | 🌐 TypeScript | 📅 2026-03-10 - Decentralized Solidity contract source code verification service
+* [sourcify](https://github.com/ethereum/sourcify) ⭐ 908 | 🐛 101 | 🌐 TypeScript | 📅 2026-03-11 - Decentralized Solidity contract source code verification service
 * [IPDR](https://github.com/miguelmota/ipdr) ⚠️ Archived - IPFS-backed Docker Registry.
 * [go-orbit-db](https://github.com/berty/go-orbit-db) ⭐ 448 | 🐛 10 | 🌐 Go | 📅 2026-03-06 - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 * [ipget](https://github.com/ipfs/ipget) ⭐ 421 | 🐛 17 | 🌐 Shell | 📅 2026-03-07 - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
@@ -83,7 +83,7 @@ A list of web browsers with IPFS integrations
 * [Multiverse](https://github.com/multiverse-vcs/go-multiverse) ⭐ 88 | 🐛 7 | 🌐 Go | 📅 2022-03-05 - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 * [ipfs-publish](https://github.com/auhau/ipfs-publish/) ⭐ 68 | 🐛 7 | 🌐 Python | 📅 2023-08-11 - Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
 * [ipfs-pinner](https://github.com/wabarc/ipfs-pinner) ⭐ 58 | 🐛 10 | 🌐 Go | 📅 2025-10-24 - A toolkit help upload files to IPFS pinning services.
-* [Omnipin](https://github.com/omnipin/omnipin) ⭐ 56 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-11 - The ultimate decentralized website deployment toolkit.
+* [Omnipin](https://github.com/omnipin/omnipin) ⭐ 56 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-11 - The ultimate decentralized website deployment toolkit.
 * [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2019-02-09 - Encrypt a file or directory with AES256 then add to IPFS.
 * [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) ⭐ 49 | 🐛 6 | 🌐 Shell | 📅 2018-07-10 - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 * [dScan](https://github.com/p2plabsxyz/dscan) ⭐ 46 | 🐛 8 | 🌐 JavaScript | 📅 2024-02-13 - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.

@@ -15,7 +15,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-02T23:03:23Z",
+            "last_commit": "2026-03-13T02:23:31Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 898
@@ -36,7 +36,7 @@
             "last_commit": "2026-03-05T05:25:52Z",
             "owner": "webrecorder",
             "repo": "archiveweb.page",
-            "stars": 1427
+            "stars": 1428
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-11T22:51:42Z",
+            "last_commit": "2026-03-12T22:28:31Z",
             "owner": "icidasset",
             "repo": "diffuse",
             "stars": 860
@@ -150,7 +150,7 @@
             "last_commit": "2026-03-11T02:15:38Z",
             "owner": "ipfs",
             "repo": "ipfs-desktop",
-            "stars": 6504
+            "stars": 6505
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2023-10-11T15:55:39Z",
             "owner": "nomasters",
             "repo": "killcord",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2026-03-10T20:43:37Z",
             "owner": "Peergos",
             "repo": "Peergos",
-            "stars": 2378
+            "stars": 2377
           }
         },
         {
@@ -264,7 +264,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-03-12T02:54:24Z",
+            "last_commit": "2026-03-13T00:42:16Z",
             "owner": "Planetable",
             "repo": "Planet",
             "stars": 1733
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-02T23:03:23Z",
+            "last_commit": "2026-03-13T02:23:31Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
             "stars": 898
@@ -764,7 +764,7 @@
             "last_commit": "2026-02-22T18:06:36Z",
             "owner": "orbitdb",
             "repo": "orbitdb",
-            "stars": 8749
+            "stars": 8750
           }
         },
         {
@@ -790,7 +790,7 @@
             "last_commit": "2026-02-27T19:26:30Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2104
+            "stars": 2103
           }
         },
         {
@@ -813,10 +813,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-11T19:05:03Z",
+            "last_commit": "2026-03-12T16:38:31Z",
             "owner": "argotorg",
             "repo": "sourcify",
-            "stars": 908
+            "stars": 909
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-02-27T19:26:30Z",
             "owner": "ipfs",
             "repo": "public-gateway-checker",
-            "stars": 2104
+            "stars": 2103
           }
         },
         {
@@ -958,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:04:42.191Z",
+    "last_updated": "2026-03-13T04:02:38.169Z",
     "original_repository": "ipfs/awesome-ipfs",
     "source_repository": "v1nvn/enhansome-ipfs",
     "source_repository_description": null,
